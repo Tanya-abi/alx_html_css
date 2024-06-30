@@ -1,0 +1,23 @@
+#h_s {
+    background-image: url(Object.png);
+    color: white;
+    /* text-align: center; */
+}
+/* body {
+    display: flex;
+    flex-direction: row;
+} */
+
+.persons {
+    display: flex;
+}
+
+/* .persons img{
+    margin: 0 auto;
+    padding: 20px;
+} */
+
+.bruce img{
+    border-radius: 50%;
+}
+
